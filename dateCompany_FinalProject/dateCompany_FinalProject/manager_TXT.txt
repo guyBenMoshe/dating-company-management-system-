@@ -1,0 +1,45 @@
+7
+3
+Adam Ron
+176589530
+1
+1
+Dana Cohen
+254637896
+0
+1
+Ido Mor
+173689749
+1
+0
+Ron Marko
+194730287
+1
+1
+Rona Lev
+200098765
+0
+0
+Shaked Fili
+109838964
+0
+0
+Tahel Nir
+209878999
+0
+1
+Boris Kosoy
+45
+2
+5
+40
+Lior Avraham
+23
+1
+2
+20
+Maya
+31
+1
+7
+80
